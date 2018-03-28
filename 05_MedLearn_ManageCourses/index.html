@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+  <link rel="shortcut icon" href="../img/favicon.ico">
+  <title>MedLearn / Manage Courses - MedDocs for Super Users</title>
+  <link href='https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
+
+  <link rel="stylesheet" href="../css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../css/theme_extra.css" type="text/css" />
+  <link rel="stylesheet" href="../css/highlight.css">
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "MedLearn / Manage Courses";
+    var mkdocs_page_input_path = "05_MedLearn_ManageCourses.md";
+    var mkdocs_page_url = "/05_MedLearn_ManageCourses/";
+  </script>
+  
+  <script src="../js/jquery-2.1.1.min.js"></script>
+  <script src="../js/modernizr-2.8.3.min.js"></script>
+  <script type="text/javascript" src="../js/highlight.pack.js"></script> 
+  
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+      <div class="wy-side-nav-search">
+        <a href=".." class="icon icon-home"> MedDocs for Super Users</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+	<ul class="current">
+	  
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="..">Welcome</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../01_MedPortal/">MedPortal</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../02_MedLearn/">MedLearn</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../03_MedLearn_Dashboard/">MedLearn / Dashboard</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../04_MedLearn_Curriculum/">MedLearn / Exploring the Curriculum</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../15_MedLearn_Cohorts/">MedLearn / Manage Cohorts (Course Lists)</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../15_MedLearn_Layouts/">MedLearn / Curriculum Layouts & Periods</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../04_MedLearn_Tags/">MedLearn / Curriculum Tagging & Mapping</a>
+	    </li>
+          
+            <li class="toctree-l1 current">
+		
+    <a class="current" href="./">MedLearn / Manage Courses</a>
+    <ul class="subnav">
+            
+    <li class="toctree-l2"><a href="#medlearn-managing-courses">MedLearn - Managing Courses</a></li>
+    
+        <ul>
+        
+            <li><a class="toctree-l3" href="#setup">Setup</a></li>
+        
+            <li><a class="toctree-l3" href="#content">Content</a></li>
+        
+            <li><a class="toctree-l3" href="#enrollment">Enrollment</a></li>
+        
+            <li><a class="toctree-l3" href="#groups">Groups</a></li>
+        
+            <li><a class="toctree-l3" href="#gradebook">Gradebook</a></li>
+        
+        </ul>
+    
+
+    </ul>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../06_MedLearn_ManageEvents/">MedLearn / Manage Events</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../07_MedLearn_Clerkships/">MedLearn / Clerkship Components</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../08_MedLearn_Portfolio/">MedLearn / ePortfolio</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../09_MedLearn_absences/">MedLearn / Absences</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../10_MedLearn_manageAE/">MedLearn / Manage Assessments & Evaluations (Surveys)</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../11_MedLearn_AE/">MedLearn / Complete Assessment & Evaluation Tasks (Surveys)</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../12_MedLearn_Groups/">MedLearn / My Course Groups</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../13_MedLearn_MSPE/">MedLearn / MSPE</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../08_MedLearn_Notices/">MedLearn / Notices</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../14_MedLearn_Profile/">MedLearn / Profile</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../15_MedLearn_People/">MedLearn / People Search</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../08_MedLearn_SystemSettings/">MedLearn / System Settings</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../MedReports/">MedReports</a>
+	    </li>
+          
+        </ul>
+      </div>
+      &nbsp;
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="..">MedDocs for Super Users</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="..">Docs</a> &raquo;</li>
+    
+      
+    
+    <li>MedLearn / Manage Courses</li>
+    <li class="wy-breadcrumbs-aside">
+      
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main">
+            <div class="section">
+              
+                <h1 id="medlearn-managing-courses">MedLearn - Managing Courses</h1>
+<p>In MedLearn, you can navigate to Manage Courses in two ways:</p>
+<ol>
+<li>Admin / Manage Courses / Select a Course, or</li>
+<li>Courses / Change Display Style Your Non-Learner View</li>
+</ol>
+<p>Once you are in the non-learner view of the course you should see five (5) tabs. </p>
+<p><img alt="Tabs" src="../images/super-courses.png" /></p>
+<ol>
+<li>Setup</li>
+<li>Content</li>
+<li>Enrollment</li>
+<li>Groups</li>
+<li>Gradebook</li>
+</ol>
+<h2 id="setup">Setup</h2>
+<p>In the setup tab, you specify the details about the course. Details include:</p>
+<ul>
+<li>Course Name</li>
+<li>Course Image (must be 1200px * 250px, this will display on the top of the learner's view of the course)</li>
+<li>Class Number (from UAccess)</li>
+<li>Subject and Catalog Number (from UAccess)</li>
+<li>Course Credit/Units (from UAccess)</li>
+<li>Course Type (core/required or option/elective)</li>
+<li>Course Contacts (e.g. Director, Coordinator, etc.)</li>
+<li>MeSH Terms</li>
+<li>Course Objectives and Additional Objectives (e.g. Vocabulary)</li>
+<li>Academic Level(s) </li>
+<li>Curriculum Layout</li>
+<li>Curriculum Period</li>
+<li>Audience</li>
+<li>Various Course Options</li>
+</ul>
+<h2 id="content">Content</h2>
+<p>In the content tab, you can provide students with information and resources about the course. Information and resources can include:</p>
+<ul>
+<li>Course Description</li>
+<li>Director's Message</li>
+<li>Files</li>
+<li>Links</li>
+</ul>
+<h2 id="enrollment">Enrollment</h2>
+<p>You attach the course audience / enrollment within the setup tab, but you are able to view a list of enrolled students in the enrollment tab. This list also provides you with the student's email address. You can download the class list as a CSV. Additionally, you can print the list or toggle between a list view or grid view. </p>
+<p><img alt="Enrollment" src="../images/super-enroll.png" /></p>
+<h2 id="groups">Groups</h2>
+<p>In the groups tab, you can create small groups (e.g. TL, CRC, Lab, Societies). You can manually create the groups within MedLearn, or import a CSV of your groups. </p>
+<p>When adding groups manually, you have the option to auto-populate groups, or create empty groups and populate them manually. </p>
+<p><img alt="Groups" src="../images/super-groups.PNG" /></p>
+<h2 id="gradebook">Gradebook</h2>
+<p><img alt="Gradebook" src="../images/super-grades.png" /></p>
+<h3 id="update-passing-score-1">Update Passing Score (1)</h3>
+<p>To set the minimum score to earn a passing score, click on the <strong>Update passing score</strong> button. You can then edit passing scores, and enter the score needed for each competency. If your course is not assessing all competencies you can enter the passing score for just the competencies you are assessing. </p>
+<h3 id="add-new-edit-assessment-2">Add New / Edit Assessment (2)</h3>
+<p>To add a new assessment click on the <strong>Add New Assessment</strong> button on the main screen of the gradebook. A form will appear. At a minimum you will need to enter the following information:</p>
+<ul>
+<li>Assessment Name</li>
+<li>Competency Weights</li>
+<li>Characteristics <ul>
+<li><em><strong>Note:</strong> If the grades are coming from a distribution from the assessment &amp; evaluation module (i.e. from a survey), make sure you select the characteristic carefully, as this will determine how grades are calculated.</em></li>
+</ul>
+</li>
+<li>Marking Scheme</li>
+<li>Assessment Type</li>
+<li>Show Grades Starting</li>
+</ul>
+<p>You can also edit an existing assessment by clicking the pencil icon in the row of the assessment you want to edit. The same form appears as when you are creating a new assessment. </p>
+<h3 id="add-drop-box-uploadable-assignment-3">Add Drop Box / Uploadable Assignment (3)</h3>
+<p>After you create an assessment, you have the option to make it a drop box / uploadable assignment. This will allow students to upload a file for grading. Various options will be available when you are creating the drop box / uploadable assignment. </p>
+<p><img alt="Assignment" src="../images/super_assignment.png" /></p>
+<h3 id="grade-spreadsheet-4">Grade Spreadsheet (4)</h3>
+<p><img alt="Spreadsheet" src="../images/super_spreadsheet.png" /></p>
+<h4 id="view-edit-grade-spreadsheet">View / Edit Grade Spreadsheet</h4>
+<p>To view student grades for each competency click on the arrow to the right of the <strong>Grade Spreadsheet</strong> button, then click on <strong>View / Edit</strong>. A table will appear displaying a row for each enrolled student, and a column for each competency and final course grades.  </p>
+<p><img alt="Spreadsheet Headings" src="../images/super_spreadhead.png" /></p>
+<p>You can click on the student score for each competency to view a grade breakdown by assessment. </p>
+<p>Additionally, you can click on the cell for the Final Course Grade, MK Retake, MK Retake Score, Behavioral Reassessment, Behavioral Reassessment Score, Remediation, and Remediation Score to enter the student's earned scores. </p>
+<h4 id="apply-final-grade">Apply Final Grade</h4>
+<p>To apply a final course grade to all students, click on the arrow to the right of the <strong>Grade Spreadsheet</strong> button, then click on <strong>Apply Final Grade</strong>. This allow you to apply the same grade to all students. </p>
+<p>For example, you might want to apply pass to all students using the method "Replace all final course grades", then go to view/edit the spreadsheet to manually adjust the students that received an incomplete or fail for their course grade. </p>
+<p>Alternatively, you can first manually enter the incompletes/fails, then apply a final grade to all with the method selected as "Only add new final course grades". </p>
+<p><img alt="Apply Final Grade" src="../images/super_finalgrade.PNG" /></p>
+<h3 id="grade-adjustments-5">Grade Adjustments (5)</h3>
+<p>To apply a positive or negative grade adjustment on a competency for a student, click on the arrow to the right of the <strong>Grade Adjustments</strong> button, then click on <strong>View / Edit</strong>. </p>
+<p>In the window that popped-up, start typing the student's name in the textbox, then click on the name once it appears and click the <strong>add adjustment</strong> button to the right. A row will appear in the table above. </p>
+<p>Select the competency you are adjusting, enter the percentage (Format Example: -10 will deduct 10%, 5 will add 5%), and enter the reason for the adjustment. Close the pop-out window to save and return to the main gradebook screen. </p>
+<h3 id="entering-grades">Entering Grades</h3>
+<ul>
+<li><strong>Manual Entry</strong><ul>
+<li>To manually enter grades for each student for an assessment, click on the assessment name on the main gradebook screen. Then with your mouse click in each cell next to the student's name to enter the score. You will have to click on each cell with your mouse, as tabbing with your keyboard does not currently work. </li>
+</ul>
+</li>
+<li><strong>Import from ExamSoft / NBME / Generic CSV</strong><ul>
+<li>Download the CSV from ExamSoft, then click on the name of the assessment you want to import scores for in MedLearn on the main gradebook screen. Click the green <strong>Import Grades</strong> button, then choose the file you just exported from ExamSoft. </li>
+<li>You can also import NBME grades. Click on the name of the assessment you want to import scores for in MedLearn on the main gradebook screen. Click the green <strong>Import Grades</strong> button, then choose the file you received from NBME. </li>
+<li>You can also import "generic" CSVs (i.e. you created the spreadsheet in Excel). Just make sure it is formatted correctly based on the guidelines specified in MedLearn. The formatting is shown when you click the green Import Grades button. </li>
+<li>_<strong>Note:</strong> If you already have grades entered for the assessment you are working on, you can select the option to replace all grades, or replace with the higher score. _</li>
+</ul>
+</li>
+<li><strong>Import from Assessment &amp; Evaluation Distribution</strong><ul>
+<li>Several prerequisites are necessary for this to work properly:<ul>
+<li>You must have selected the correct characteristic when setting up the gradebook assessment so that MedLearn knows how to score the assessment. </li>
+<li>You must have tied the gradebook assessment to the assessment &amp; evaluation distribution when setting up the distribution. </li>
+<li>Once the assessment &amp; evaluation tasks/surveys are completed you can click on the name of the gradebook assessment, then click on Import from Distribution. </li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+              
+            </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../06_MedLearn_ManageEvents/" class="btn btn-neutral float-right" title="MedLearn / Manage Events">Next <span class="icon icon-circle-arrow-right"></span></a>
+      
+      
+        <a href="../04_MedLearn_Tags/" class="btn btn-neutral" title="MedLearn / Curriculum Tagging & Mapping"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+    
+  </div>
+
+  Built with <a href="http://www.mkdocs.org">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+      
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" style="cursor: pointer">
+    <span class="rst-current-version" data-toggle="rst-current-version">
+      
+      
+        <span><a href="../04_MedLearn_Tags/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+      
+      
+        <span style="margin-left: 15px"><a href="../06_MedLearn_ManageEvents/" style="color: #fcfcfc">Next &raquo;</a></span>
+      
+    </span>
+</div>
+    <script>var base_url = '..';</script>
+    <script src="../js/theme.js"></script>
+      <script src="../search/require.js"></script>
+      <script src="../search/search.js"></script>
+
+</body>
+</html>

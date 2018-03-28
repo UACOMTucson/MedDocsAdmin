@@ -1,0 +1,589 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to MedDocs for Super Users!\n\n\nWhat is MedDocs?\n\n\nMedDocs is a repository of resources for College of Medicine-Tucson educational applications and systems. MedDocs contains user guides, illustrations, and video demonstrations. \n\n\nWhat applications does MedDocs currently support?\n\n\nCurrently, MedDocs has resources for MedPortal, MedLearn, and MedReports. MedDocs will continue to expand. \n\n\n\n\nWhat if I need additional help?\n\n\nPlease contact the IT Service Desk. If they are unable to assist you they will forward your request to the Project/Operations Team. \nHere is the link to the COM-T ITS Website\n.",
+            "title": "Welcome"
+        },
+        {
+            "location": "/#welcome-to-meddocs-for-super-users",
+            "text": "What is MedDocs?  MedDocs is a repository of resources for College of Medicine-Tucson educational applications and systems. MedDocs contains user guides, illustrations, and video demonstrations.   What applications does MedDocs currently support?  Currently, MedDocs has resources for MedPortal, MedLearn, and MedReports. MedDocs will continue to expand.    What if I need additional help?  Please contact the IT Service Desk. If they are unable to assist you they will forward your request to the Project/Operations Team.  Here is the link to the COM-T ITS Website .",
+            "title": "Welcome to MedDocs for Super Users!"
+        },
+        {
+            "location": "/01_MedPortal/",
+            "text": "MedPortal\n\n\nWhat is MedPortal?\n\n\nMedPortal is a fully-integrated \"portal\" in which students, faculty, and staff enter one system that manages the entire educational ecosystem and reporting.  \n\n\nA training video for MedPortal is available below:",
+            "title": "MedPortal"
+        },
+        {
+            "location": "/01_MedPortal/#medportal",
+            "text": "What is MedPortal?  MedPortal is a fully-integrated \"portal\" in which students, faculty, and staff enter one system that manages the entire educational ecosystem and reporting.    A training video for MedPortal is available below:",
+            "title": "MedPortal"
+        },
+        {
+            "location": "/02_MedLearn/",
+            "text": "MedLearn\n\n\nWhat is MedLearn?\n\n\nMedLearn is a new online learning platform for students, faculty, and staff at the University of Arizona College of Medicine-Tucson. MedLearn is UACOM-T's branded and customized version of \nEntrada\n.",
+            "title": "MedLearn"
+        },
+        {
+            "location": "/02_MedLearn/#medlearn",
+            "text": "What is MedLearn?  MedLearn is a new online learning platform for students, faculty, and staff at the University of Arizona College of Medicine-Tucson. MedLearn is UACOM-T's branded and customized version of  Entrada .",
+            "title": "MedLearn"
+        },
+        {
+            "location": "/03_MedLearn_Dashboard/",
+            "text": "MedLearn - Dashboard\n\n\nThe dashboard is displayed by default when logging in to MedLearn. If you navigate away from the dashboard, simply click on the MedLearn logo or the dashboard link to return to it.\n\n\n\n\nMy MedLearn (1)\n\n\nCurrently My MedLearn's primary use is for students, thus not all links will work for faculty and staff. My MedLearn provides students with quick access to commonly used areas of MedLearn. Additionally, Societies Mentors will access their MSPE students by clicking on My MSPE Students within My MedLearn.  \n\n\nMy Bookmarks (2)\n\n\nMy Bookmarks allows users to create custom quick links specific to their user account. If you frequently are going to the same page, you can add it as a bookmark, or if you want to remember to return to a certain page in MedLearn you could add it as a bookmark as a reminder, then delete it once you are finished. Your bookmarks are unique to your account, so no one else can see what you have bookmarked in MedLearn.\n\n\nGive Feedback (3)\n\n\nFaculty and Staff are able to submit feedback for IT, while students are able to provide IT feedback and anonymous course feedback. IT feedback might include a suggestion or a bug/issue you've identified.\n\n\nMedLearn Message Center (4)\n\n\nFaculty and staff are able to post messages containing important reminders, notices, announcements, etc. to specific audiences. While most notices will likely be directed towards students, they can also be targeted towards faculty, staff, or residents within MedLearn. Once posted, messages are shown on the dashboard within the MedLearn Message Center. Unread messages display by default when you view the dashboard. You can also mark messages as read so that they no longer appear. If you want to review previously read messages click on Previously Read Messages. \n\n\nCalendar (5)\n\n\nBy default, faculty will see events on their calendar in which they are associated with either as an author, editor, lecturer, or faculty. Staff will see events on their calendar for courses they are associated with (i.e. assigned to as the coordinator). To change what displays on your calendar, you can apply and remove filters to either get a more general calendar or more specific calendar. \n\n\nNote that students do not have the ability to apply and remove filters. They are only ever able to see events on their calendar for courses they are enrolled in and an audience of the event. \n\n\nBy clicking on an event on the calendar you can view event details (e.g. location, duration, attendance requirements, etc.) and resources.\n\n\n\n\nThe calendar defaults to the current week\n\n\nRefer to the date range field\n\n\nUse the arrows to select past and future dates\n\n\nApply filters to change what shows on your calendar\n\n\nClick on the event to review event details\n\n\nClick on the Event Resources link to access learning materials\n\n\n\n\nMy Teaching Events (6)\n\n\nThe My Teaching Events table shows faculty a list of events in which they are associated with either as an author, editor, lecturer, or faculty. Staff will see a list of all events for courses they are associated with (i.e. assigned to as the coordinator). Click on an event to view the event's details. \n\n\nRSS Feeds (7)\n\n\nIf you have a favorite website who posts or content you follow, you can add their RSS feed to your MedLearn dashboard. RSS feeds added to the MedLearn dashboard are unique to the user who added them. \n\n\nWhat is an RSS?\n\n\n\"RSS (Rich Site Summary) is a format for delivering regularly changing web content. Many news-related sites, weblogs and other online publishers syndicate their content as an RSS Feed to whoever wants it.\" \n(Source: \nhttp://www.whatisrss.com/\n)",
+            "title": "MedLearn / Dashboard"
+        },
+        {
+            "location": "/03_MedLearn_Dashboard/#medlearn-dashboard",
+            "text": "The dashboard is displayed by default when logging in to MedLearn. If you navigate away from the dashboard, simply click on the MedLearn logo or the dashboard link to return to it.",
+            "title": "MedLearn - Dashboard"
+        },
+        {
+            "location": "/03_MedLearn_Dashboard/#my-medlearn-1",
+            "text": "Currently My MedLearn's primary use is for students, thus not all links will work for faculty and staff. My MedLearn provides students with quick access to commonly used areas of MedLearn. Additionally, Societies Mentors will access their MSPE students by clicking on My MSPE Students within My MedLearn.",
+            "title": "My MedLearn (1)"
+        },
+        {
+            "location": "/03_MedLearn_Dashboard/#my-bookmarks-2",
+            "text": "My Bookmarks allows users to create custom quick links specific to their user account. If you frequently are going to the same page, you can add it as a bookmark, or if you want to remember to return to a certain page in MedLearn you could add it as a bookmark as a reminder, then delete it once you are finished. Your bookmarks are unique to your account, so no one else can see what you have bookmarked in MedLearn.",
+            "title": "My Bookmarks (2)"
+        },
+        {
+            "location": "/03_MedLearn_Dashboard/#give-feedback-3",
+            "text": "Faculty and Staff are able to submit feedback for IT, while students are able to provide IT feedback and anonymous course feedback. IT feedback might include a suggestion or a bug/issue you've identified.",
+            "title": "Give Feedback (3)"
+        },
+        {
+            "location": "/03_MedLearn_Dashboard/#medlearn-message-center-4",
+            "text": "Faculty and staff are able to post messages containing important reminders, notices, announcements, etc. to specific audiences. While most notices will likely be directed towards students, they can also be targeted towards faculty, staff, or residents within MedLearn. Once posted, messages are shown on the dashboard within the MedLearn Message Center. Unread messages display by default when you view the dashboard. You can also mark messages as read so that they no longer appear. If you want to review previously read messages click on Previously Read Messages.",
+            "title": "MedLearn Message Center (4)"
+        },
+        {
+            "location": "/03_MedLearn_Dashboard/#calendar-5",
+            "text": "By default, faculty will see events on their calendar in which they are associated with either as an author, editor, lecturer, or faculty. Staff will see events on their calendar for courses they are associated with (i.e. assigned to as the coordinator). To change what displays on your calendar, you can apply and remove filters to either get a more general calendar or more specific calendar.   Note that students do not have the ability to apply and remove filters. They are only ever able to see events on their calendar for courses they are enrolled in and an audience of the event.   By clicking on an event on the calendar you can view event details (e.g. location, duration, attendance requirements, etc.) and resources.   The calendar defaults to the current week  Refer to the date range field  Use the arrows to select past and future dates  Apply filters to change what shows on your calendar  Click on the event to review event details  Click on the Event Resources link to access learning materials",
+            "title": "Calendar (5)"
+        },
+        {
+            "location": "/03_MedLearn_Dashboard/#my-teaching-events-6",
+            "text": "The My Teaching Events table shows faculty a list of events in which they are associated with either as an author, editor, lecturer, or faculty. Staff will see a list of all events for courses they are associated with (i.e. assigned to as the coordinator). Click on an event to view the event's details.",
+            "title": "My Teaching Events (6)"
+        },
+        {
+            "location": "/03_MedLearn_Dashboard/#rss-feeds-7",
+            "text": "If you have a favorite website who posts or content you follow, you can add their RSS feed to your MedLearn dashboard. RSS feeds added to the MedLearn dashboard are unique to the user who added them.   What is an RSS?  \"RSS (Rich Site Summary) is a format for delivering regularly changing web content. Many news-related sites, weblogs and other online publishers syndicate their content as an RSS Feed to whoever wants it.\"  (Source:  http://www.whatisrss.com/ )",
+            "title": "RSS Feeds (7)"
+        },
+        {
+            "location": "/04_MedLearn_Curriculum/",
+            "text": "MedLearn - Exploring the Curriculum\n\n\nMedLearn provides users with an area to search and explore the curriculum. \n\n\nCurriculum Search\n\n\nUsers can perform a curriculum search utilizing Boolean Search operators. Additionally you can expand the search to include files attached to learning events. You can also filter by cohort and/or academic year. \n\n\nCurriculum Explorer\n\n\nThe Curriculum Explorer allows you to view curriculum content as it relates to tag sets. In addition to being able to filter by curriculum tag sets, you can filter your results by course, cohort, academic year, and choose whether you want to explore courses, learning events, and/or assessments. \n\n\nCurriculum Matrix\n\n\nThe Curriculum Matrix displays a matrix indicating where certain tag sets are attached to courses. This only looks at tags attached to courses, not events.",
+            "title": "MedLearn / Exploring the Curriculum"
+        },
+        {
+            "location": "/04_MedLearn_Curriculum/#medlearn-exploring-the-curriculum",
+            "text": "MedLearn provides users with an area to search and explore the curriculum.",
+            "title": "MedLearn - Exploring the Curriculum"
+        },
+        {
+            "location": "/04_MedLearn_Curriculum/#curriculum-search",
+            "text": "Users can perform a curriculum search utilizing Boolean Search operators. Additionally you can expand the search to include files attached to learning events. You can also filter by cohort and/or academic year.",
+            "title": "Curriculum Search"
+        },
+        {
+            "location": "/04_MedLearn_Curriculum/#curriculum-explorer",
+            "text": "The Curriculum Explorer allows you to view curriculum content as it relates to tag sets. In addition to being able to filter by curriculum tag sets, you can filter your results by course, cohort, academic year, and choose whether you want to explore courses, learning events, and/or assessments.",
+            "title": "Curriculum Explorer"
+        },
+        {
+            "location": "/04_MedLearn_Curriculum/#curriculum-matrix",
+            "text": "The Curriculum Matrix displays a matrix indicating where certain tag sets are attached to courses. This only looks at tags attached to courses, not events.",
+            "title": "Curriculum Matrix"
+        },
+        {
+            "location": "/15_MedLearn_Cohorts/",
+            "text": "MedLearn - Manage Cohorts / Course Lists\n\n\nTo be able to enroll students in a course, you must first create a course list. To create a course list navigate to \nAdmin / Manage Cohorts\n. \n\n\nYou can manually create the class list in MedLearn, or import from a CSV. To import from a CSV, click on \nImport / Export\n then click  \nImport Cohorts from CSV\n. A sample file is available to download for reference. \n\n\nTo manually create a class list, click on \nAdd New Cohort\n. Then enter the name, type (Course List), the course the list is associated with, and select the learners you want to enroll in the course. \n\n\n\n\nOnce the course list is created, you can attach it to the course within the setup tab.",
+            "title": "MedLearn / Manage Cohorts (Course Lists)"
+        },
+        {
+            "location": "/15_MedLearn_Cohorts/#medlearn-manage-cohorts-course-lists",
+            "text": "To be able to enroll students in a course, you must first create a course list. To create a course list navigate to  Admin / Manage Cohorts .   You can manually create the class list in MedLearn, or import from a CSV. To import from a CSV, click on  Import / Export  then click   Import Cohorts from CSV . A sample file is available to download for reference.   To manually create a class list, click on  Add New Cohort . Then enter the name, type (Course List), the course the list is associated with, and select the learners you want to enroll in the course.    Once the course list is created, you can attach it to the course within the setup tab.",
+            "title": "MedLearn - Manage Cohorts / Course Lists"
+        },
+        {
+            "location": "/15_MedLearn_Layouts/",
+            "text": "MedLearn - Curriculum Layouts and Periods\n\n\nTo define the layout a course belongs to, you will need to create a curriculum period (within the corresponding curriculum layout), and attach the curriculum period to the course in the course setup tab. \n\n\nTo create a curriculum period navigate to \nAdmin / Manage Curriculum\n. Then click on \nCurriculum Layout\n in the left side Manage Curriculum menu. \n\n\n\n\nSelect the curriculum layout you want to create a period for by clicking on the name. \n\n\nYou will then see a list of all the existing periods for that layout. To add a new one click on \nAdd Curriculum Period\n. A new row will appear at the bottom of the list. \n\n\nEnter the start date, finish date, title, grad year, academic year, and term. Click save to finish. \n\n\nThe curriculum period will now be available to attach to a course within the course setup tab.",
+            "title": "MedLearn / Curriculum Layouts & Periods"
+        },
+        {
+            "location": "/15_MedLearn_Layouts/#medlearn-curriculum-layouts-and-periods",
+            "text": "To define the layout a course belongs to, you will need to create a curriculum period (within the corresponding curriculum layout), and attach the curriculum period to the course in the course setup tab.   To create a curriculum period navigate to  Admin / Manage Curriculum . Then click on  Curriculum Layout  in the left side Manage Curriculum menu.    Select the curriculum layout you want to create a period for by clicking on the name.   You will then see a list of all the existing periods for that layout. To add a new one click on  Add Curriculum Period . A new row will appear at the bottom of the list.   Enter the start date, finish date, title, grad year, academic year, and term. Click save to finish.   The curriculum period will now be available to attach to a course within the course setup tab.",
+            "title": "MedLearn - Curriculum Layouts and Periods"
+        },
+        {
+            "location": "/04_MedLearn_Tags/",
+            "text": "MedLearn - Curriculum Tags\n\n\nMedLearn has the ability to map tags to courses, learning events, assessment/evaluation items, and to other tags. \n\n\nBy navigating to \nAdmin / Manage Curriculum\n then selecting \nCurriculum Tags\n in the left side menu, you will see a list of available taxonomies for tagging. \n\n\n\n\nNote:\n MeSH terms are not \"housed\" within Curriculum Tags. They are stored separately in the database. \n\n\nYou can add a new taxonomy by clicking on \nAdd Tag Set\n. To add additional tags to an existing taxonomy, click on the title of the tag set you want to add to, then you can add a tag.  \n\n\nOrganization of Course, Event, and ILM Objectives\n\n\nThe UA COM-T's learning objectives are within the \nObjectives\n tag set. The are organized in the following structure:\n\n\n\n\nObjectives\n\n\nCourse Name\n\n\nCourse Objectives\n\n\nThe actual objective...\n\n\n\n\n\n\nEvent Objectives\n\n\nEvent Title\n\n\nThe actual objective...\n\n\n\n\n\n\n\n\n\n\nILM Objectives\n\n\nILM Title\n\n\nThe actual objective\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdditionally, the objectives are linked to their appropriate competency. To view the linked tags, click on the link icon that appears when you hover over the objective. A window similar to the following should appear:\n\n\n\n\nYou can also add \nAdmin Notes\n to objectives. These notes are only visible to administrators. \n\n\nOrganization of Vocabulary\n\n\nThe Vocabulary tag set is organized in the following manner:\n\n\n\n\nVocabulary\n\n\nDisciplines\n\n\nThe specific disciplines\n\n\n\n\n\n\nThreads\n\n\nEvidence-Based Medicine\n\n\nThe specific threads\n\n\n\n\n\n\nHealth & Individual\n\n\nThe specific threads\n\n\n\n\n\n\nHealth & Society\n\n\nThe specific threads\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow To Tag Your Course Objectives\n\n\n\n\nNavigate to Admin / Manage Courses / Select Your Course / Setup Tab\n\n\nScroll down to the Objectives and Tagging section\n\n\nClick \nShow Curriculum Tag Sets\n\n\nClick through the tag sets following the organization mentioned above to find your course objectives\n\n\nClick the checkbox next to each course objective you want to attach to the course\n\n\nRepeat the above steps with the Vocabulary tag set (if applicable)\n\n\n\n\nYou will notice that tags from the tag set \nObjectives\n sort to the sub-section titled \nCourse Objectives\n, while tags from any other tag set sort to the sub-section titled \nAdditional Objectives\n. \n\n\nWithin the \nCourse Objectives\n sub-section, you can also further specify which objectives are primary, secondary, or tertiary. \n\n\n\n\nClick save at the bottom of the page when you are done. \n\n\nHow To Tag Your Event Objectives\n\n\n\n\nNavigate to Admin / Manage Events / Select Your Event / Content Tab\n\n\nScroll down to the Event Objectives section\n\n\nClick on \nMap Additional Objectives\n\n\nNavigate to the Objectives or Vocabulary tag set to find the objectives relevant to your event\n\n\nClick the checkbox next to the tags you want to attach to the event, the tags will appear in a new sub-section titled \nEvent Specific Objectives\n\n\n\n\n\n\nClick save at the bottom of the section when you are done. \n\n\nWhat if I have a brand new objective?\n\n\n\n\nGo to Admin / Manage Curriculum / Curriculum Tags\n\n\nSelect the tag set you want to add the objective to (e.g. Objectives / Course Name / Course, Event, or ILM Objectives / Etc.)\n\n\nClick \nAdd Tag\n\n\n\n\nReturn to the course, event, or ILM that you want to attach the new tag to and follow the steps outlined in the previous sections. \n\n\nWhat if I need to edit an objective?\n\n\nFirst, is the edit a \nminor\n change (e.g. changing the leading verb)? If so, go to Admin / Manage Curriculum / Curriculum Tags / Navigate through the tag sets to find the objective, and finally click the pencil icon that appears when you hover on the tag to edit it. \n\n\nIf it is a \nmajor\n change/content change, detach the old objective from the course/event/ILM, and add a new objective following the steps outlined above for \nWhat if I have a brand new objective?\n\n\nWhat if I need to remove an objective?\n\n\nIf you just need to remove an objective from a course/event/ILM, detach the tag directly from the setup or content tab. Do \nnot\n delete the tag from Manage Curriculum, as that will result in the tag being deleted for past years, too.",
+            "title": "MedLearn / Curriculum Tagging & Mapping"
+        },
+        {
+            "location": "/04_MedLearn_Tags/#medlearn-curriculum-tags",
+            "text": "MedLearn has the ability to map tags to courses, learning events, assessment/evaluation items, and to other tags.   By navigating to  Admin / Manage Curriculum  then selecting  Curriculum Tags  in the left side menu, you will see a list of available taxonomies for tagging.    Note:  MeSH terms are not \"housed\" within Curriculum Tags. They are stored separately in the database.   You can add a new taxonomy by clicking on  Add Tag Set . To add additional tags to an existing taxonomy, click on the title of the tag set you want to add to, then you can add a tag.",
+            "title": "MedLearn - Curriculum Tags"
+        },
+        {
+            "location": "/04_MedLearn_Tags/#organization-of-course-event-and-ilm-objectives",
+            "text": "The UA COM-T's learning objectives are within the  Objectives  tag set. The are organized in the following structure:   Objectives  Course Name  Course Objectives  The actual objective...    Event Objectives  Event Title  The actual objective...      ILM Objectives  ILM Title  The actual objective           Additionally, the objectives are linked to their appropriate competency. To view the linked tags, click on the link icon that appears when you hover over the objective. A window similar to the following should appear:   You can also add  Admin Notes  to objectives. These notes are only visible to administrators.",
+            "title": "Organization of Course, Event, and ILM Objectives"
+        },
+        {
+            "location": "/04_MedLearn_Tags/#organization-of-vocabulary",
+            "text": "The Vocabulary tag set is organized in the following manner:   Vocabulary  Disciplines  The specific disciplines    Threads  Evidence-Based Medicine  The specific threads    Health & Individual  The specific threads    Health & Society  The specific threads",
+            "title": "Organization of Vocabulary"
+        },
+        {
+            "location": "/04_MedLearn_Tags/#how-to-tag-your-course-objectives",
+            "text": "Navigate to Admin / Manage Courses / Select Your Course / Setup Tab  Scroll down to the Objectives and Tagging section  Click  Show Curriculum Tag Sets  Click through the tag sets following the organization mentioned above to find your course objectives  Click the checkbox next to each course objective you want to attach to the course  Repeat the above steps with the Vocabulary tag set (if applicable)   You will notice that tags from the tag set  Objectives  sort to the sub-section titled  Course Objectives , while tags from any other tag set sort to the sub-section titled  Additional Objectives .   Within the  Course Objectives  sub-section, you can also further specify which objectives are primary, secondary, or tertiary.    Click save at the bottom of the page when you are done.",
+            "title": "How To Tag Your Course Objectives"
+        },
+        {
+            "location": "/04_MedLearn_Tags/#how-to-tag-your-event-objectives",
+            "text": "Navigate to Admin / Manage Events / Select Your Event / Content Tab  Scroll down to the Event Objectives section  Click on  Map Additional Objectives  Navigate to the Objectives or Vocabulary tag set to find the objectives relevant to your event  Click the checkbox next to the tags you want to attach to the event, the tags will appear in a new sub-section titled  Event Specific Objectives    Click save at the bottom of the section when you are done.",
+            "title": "How To Tag Your Event Objectives"
+        },
+        {
+            "location": "/04_MedLearn_Tags/#what-if-i-have-a-brand-new-objective",
+            "text": "Go to Admin / Manage Curriculum / Curriculum Tags  Select the tag set you want to add the objective to (e.g. Objectives / Course Name / Course, Event, or ILM Objectives / Etc.)  Click  Add Tag   Return to the course, event, or ILM that you want to attach the new tag to and follow the steps outlined in the previous sections.",
+            "title": "What if I have a brand new objective?"
+        },
+        {
+            "location": "/04_MedLearn_Tags/#what-if-i-need-to-edit-an-objective",
+            "text": "First, is the edit a  minor  change (e.g. changing the leading verb)? If so, go to Admin / Manage Curriculum / Curriculum Tags / Navigate through the tag sets to find the objective, and finally click the pencil icon that appears when you hover on the tag to edit it.   If it is a  major  change/content change, detach the old objective from the course/event/ILM, and add a new objective following the steps outlined above for  What if I have a brand new objective?",
+            "title": "What if I need to edit an objective?"
+        },
+        {
+            "location": "/04_MedLearn_Tags/#what-if-i-need-to-remove-an-objective",
+            "text": "If you just need to remove an objective from a course/event/ILM, detach the tag directly from the setup or content tab. Do  not  delete the tag from Manage Curriculum, as that will result in the tag being deleted for past years, too.",
+            "title": "What if I need to remove an objective?"
+        },
+        {
+            "location": "/05_MedLearn_ManageCourses/",
+            "text": "MedLearn - Managing Courses\n\n\nIn MedLearn, you can navigate to Manage Courses in two ways:\n\n\n\n\nAdmin / Manage Courses / Select a Course, or\n\n\nCourses / Change Display Style Your Non-Learner View\n\n\n\n\nOnce you are in the non-learner view of the course you should see five (5) tabs. \n\n\n\n\n\n\nSetup\n\n\nContent\n\n\nEnrollment\n\n\nGroups\n\n\nGradebook\n\n\n\n\nSetup\n\n\nIn the setup tab, you specify the details about the course. Details include:\n\n\n\n\nCourse Name\n\n\nCourse Image (must be 1200px * 250px, this will display on the top of the learner's view of the course)\n\n\nClass Number (from UAccess)\n\n\nSubject and Catalog Number (from UAccess)\n\n\nCourse Credit/Units (from UAccess)\n\n\nCourse Type (core/required or option/elective)\n\n\nCourse Contacts (e.g. Director, Coordinator, etc.)\n\n\nMeSH Terms\n\n\nCourse Objectives and Additional Objectives (e.g. Vocabulary)\n\n\nAcademic Level(s) \n\n\nCurriculum Layout\n\n\nCurriculum Period\n\n\nAudience\n\n\nVarious Course Options\n\n\n\n\nContent\n\n\nIn the content tab, you can provide students with information and resources about the course. Information and resources can include:\n\n\n\n\nCourse Description\n\n\nDirector's Message\n\n\nFiles\n\n\nLinks\n\n\n\n\nEnrollment\n\n\nYou attach the course audience / enrollment within the setup tab, but you are able to view a list of enrolled students in the enrollment tab. This list also provides you with the student's email address. You can download the class list as a CSV. Additionally, you can print the list or toggle between a list view or grid view. \n\n\n\n\nGroups\n\n\nIn the groups tab, you can create small groups (e.g. TL, CRC, Lab, Societies). You can manually create the groups within MedLearn, or import a CSV of your groups. \n\n\nWhen adding groups manually, you have the option to auto-populate groups, or create empty groups and populate them manually. \n\n\n\n\nGradebook\n\n\n\n\nUpdate Passing Score (1)\n\n\nTo set the minimum score to earn a passing score, click on the \nUpdate passing score\n button. You can then edit passing scores, and enter the score needed for each competency. If your course is not assessing all competencies you can enter the passing score for just the competencies you are assessing. \n\n\nAdd New / Edit Assessment (2)\n\n\nTo add a new assessment click on the \nAdd New Assessment\n button on the main screen of the gradebook. A form will appear. At a minimum you will need to enter the following information:\n\n\n\n\nAssessment Name\n\n\nCompetency Weights\n\n\nCharacteristics \n\n\nNote:\n If the grades are coming from a distribution from the assessment & evaluation module (i.e. from a survey), make sure you select the characteristic carefully, as this will determine how grades are calculated.\n\n\n\n\n\n\nMarking Scheme\n\n\nAssessment Type\n\n\nShow Grades Starting\n\n\n\n\nYou can also edit an existing assessment by clicking the pencil icon in the row of the assessment you want to edit. The same form appears as when you are creating a new assessment. \n\n\nAdd Drop Box / Uploadable Assignment (3)\n\n\nAfter you create an assessment, you have the option to make it a drop box / uploadable assignment. This will allow students to upload a file for grading. Various options will be available when you are creating the drop box / uploadable assignment. \n\n\n\n\nGrade Spreadsheet (4)\n\n\n\n\nView / Edit Grade Spreadsheet\n\n\nTo view student grades for each competency click on the arrow to the right of the \nGrade Spreadsheet\n button, then click on \nView / Edit\n. A table will appear displaying a row for each enrolled student, and a column for each competency and final course grades.  \n\n\n\n\nYou can click on the student score for each competency to view a grade breakdown by assessment. \n\n\nAdditionally, you can click on the cell for the Final Course Grade, MK Retake, MK Retake Score, Behavioral Reassessment, Behavioral Reassessment Score, Remediation, and Remediation Score to enter the student's earned scores. \n\n\nApply Final Grade\n\n\nTo apply a final course grade to all students, click on the arrow to the right of the \nGrade Spreadsheet\n button, then click on \nApply Final Grade\n. This allow you to apply the same grade to all students. \n\n\nFor example, you might want to apply pass to all students using the method \"Replace all final course grades\", then go to view/edit the spreadsheet to manually adjust the students that received an incomplete or fail for their course grade. \n\n\nAlternatively, you can first manually enter the incompletes/fails, then apply a final grade to all with the method selected as \"Only add new final course grades\". \n\n\n\n\nGrade Adjustments (5)\n\n\nTo apply a positive or negative grade adjustment on a competency for a student, click on the arrow to the right of the \nGrade Adjustments\n button, then click on \nView / Edit\n. \n\n\nIn the window that popped-up, start typing the student's name in the textbox, then click on the name once it appears and click the \nadd adjustment\n button to the right. A row will appear in the table above. \n\n\nSelect the competency you are adjusting, enter the percentage (Format Example: -10 will deduct 10%, 5 will add 5%), and enter the reason for the adjustment. Close the pop-out window to save and return to the main gradebook screen. \n\n\nEntering Grades\n\n\n\n\nManual Entry\n\n\nTo manually enter grades for each student for an assessment, click on the assessment name on the main gradebook screen. Then with your mouse click in each cell next to the student's name to enter the score. You will have to click on each cell with your mouse, as tabbing with your keyboard does not currently work. \n\n\n\n\n\n\nImport from ExamSoft / NBME / Generic CSV\n\n\nDownload the CSV from ExamSoft, then click on the name of the assessment you want to import scores for in MedLearn on the main gradebook screen. Click the green \nImport Grades\n button, then choose the file you just exported from ExamSoft. \n\n\nYou can also import NBME grades. Click on the name of the assessment you want to import scores for in MedLearn on the main gradebook screen. Click the green \nImport Grades\n button, then choose the file you received from NBME. \n\n\nYou can also import \"generic\" CSVs (i.e. you created the spreadsheet in Excel). Just make sure it is formatted correctly based on the guidelines specified in MedLearn. The formatting is shown when you click the green Import Grades button. \n\n\n_\nNote:\n If you already have grades entered for the assessment you are working on, you can select the option to replace all grades, or replace with the higher score. _\n\n\n\n\n\n\nImport from Assessment & Evaluation Distribution\n\n\nSeveral prerequisites are necessary for this to work properly:\n\n\nYou must have selected the correct characteristic when setting up the gradebook assessment so that MedLearn knows how to score the assessment. \n\n\nYou must have tied the gradebook assessment to the assessment & evaluation distribution when setting up the distribution. \n\n\nOnce the assessment & evaluation tasks/surveys are completed you can click on the name of the gradebook assessment, then click on Import from Distribution.",
+            "title": "MedLearn / Manage Courses"
+        },
+        {
+            "location": "/05_MedLearn_ManageCourses/#medlearn-managing-courses",
+            "text": "In MedLearn, you can navigate to Manage Courses in two ways:   Admin / Manage Courses / Select a Course, or  Courses / Change Display Style Your Non-Learner View   Once you are in the non-learner view of the course you should see five (5) tabs.     Setup  Content  Enrollment  Groups  Gradebook",
+            "title": "MedLearn - Managing Courses"
+        },
+        {
+            "location": "/05_MedLearn_ManageCourses/#setup",
+            "text": "In the setup tab, you specify the details about the course. Details include:   Course Name  Course Image (must be 1200px * 250px, this will display on the top of the learner's view of the course)  Class Number (from UAccess)  Subject and Catalog Number (from UAccess)  Course Credit/Units (from UAccess)  Course Type (core/required or option/elective)  Course Contacts (e.g. Director, Coordinator, etc.)  MeSH Terms  Course Objectives and Additional Objectives (e.g. Vocabulary)  Academic Level(s)   Curriculum Layout  Curriculum Period  Audience  Various Course Options",
+            "title": "Setup"
+        },
+        {
+            "location": "/05_MedLearn_ManageCourses/#content",
+            "text": "In the content tab, you can provide students with information and resources about the course. Information and resources can include:   Course Description  Director's Message  Files  Links",
+            "title": "Content"
+        },
+        {
+            "location": "/05_MedLearn_ManageCourses/#enrollment",
+            "text": "You attach the course audience / enrollment within the setup tab, but you are able to view a list of enrolled students in the enrollment tab. This list also provides you with the student's email address. You can download the class list as a CSV. Additionally, you can print the list or toggle between a list view or grid view.",
+            "title": "Enrollment"
+        },
+        {
+            "location": "/05_MedLearn_ManageCourses/#groups",
+            "text": "In the groups tab, you can create small groups (e.g. TL, CRC, Lab, Societies). You can manually create the groups within MedLearn, or import a CSV of your groups.   When adding groups manually, you have the option to auto-populate groups, or create empty groups and populate them manually.",
+            "title": "Groups"
+        },
+        {
+            "location": "/05_MedLearn_ManageCourses/#gradebook",
+            "text": "",
+            "title": "Gradebook"
+        },
+        {
+            "location": "/05_MedLearn_ManageCourses/#update-passing-score-1",
+            "text": "To set the minimum score to earn a passing score, click on the  Update passing score  button. You can then edit passing scores, and enter the score needed for each competency. If your course is not assessing all competencies you can enter the passing score for just the competencies you are assessing.",
+            "title": "Update Passing Score (1)"
+        },
+        {
+            "location": "/05_MedLearn_ManageCourses/#add-new-edit-assessment-2",
+            "text": "To add a new assessment click on the  Add New Assessment  button on the main screen of the gradebook. A form will appear. At a minimum you will need to enter the following information:   Assessment Name  Competency Weights  Characteristics   Note:  If the grades are coming from a distribution from the assessment & evaluation module (i.e. from a survey), make sure you select the characteristic carefully, as this will determine how grades are calculated.    Marking Scheme  Assessment Type  Show Grades Starting   You can also edit an existing assessment by clicking the pencil icon in the row of the assessment you want to edit. The same form appears as when you are creating a new assessment.",
+            "title": "Add New / Edit Assessment (2)"
+        },
+        {
+            "location": "/05_MedLearn_ManageCourses/#add-drop-box-uploadable-assignment-3",
+            "text": "After you create an assessment, you have the option to make it a drop box / uploadable assignment. This will allow students to upload a file for grading. Various options will be available when you are creating the drop box / uploadable assignment.",
+            "title": "Add Drop Box / Uploadable Assignment (3)"
+        },
+        {
+            "location": "/05_MedLearn_ManageCourses/#grade-spreadsheet-4",
+            "text": "",
+            "title": "Grade Spreadsheet (4)"
+        },
+        {
+            "location": "/05_MedLearn_ManageCourses/#view-edit-grade-spreadsheet",
+            "text": "To view student grades for each competency click on the arrow to the right of the  Grade Spreadsheet  button, then click on  View / Edit . A table will appear displaying a row for each enrolled student, and a column for each competency and final course grades.     You can click on the student score for each competency to view a grade breakdown by assessment.   Additionally, you can click on the cell for the Final Course Grade, MK Retake, MK Retake Score, Behavioral Reassessment, Behavioral Reassessment Score, Remediation, and Remediation Score to enter the student's earned scores.",
+            "title": "View / Edit Grade Spreadsheet"
+        },
+        {
+            "location": "/05_MedLearn_ManageCourses/#apply-final-grade",
+            "text": "To apply a final course grade to all students, click on the arrow to the right of the  Grade Spreadsheet  button, then click on  Apply Final Grade . This allow you to apply the same grade to all students.   For example, you might want to apply pass to all students using the method \"Replace all final course grades\", then go to view/edit the spreadsheet to manually adjust the students that received an incomplete or fail for their course grade.   Alternatively, you can first manually enter the incompletes/fails, then apply a final grade to all with the method selected as \"Only add new final course grades\".",
+            "title": "Apply Final Grade"
+        },
+        {
+            "location": "/05_MedLearn_ManageCourses/#grade-adjustments-5",
+            "text": "To apply a positive or negative grade adjustment on a competency for a student, click on the arrow to the right of the  Grade Adjustments  button, then click on  View / Edit .   In the window that popped-up, start typing the student's name in the textbox, then click on the name once it appears and click the  add adjustment  button to the right. A row will appear in the table above.   Select the competency you are adjusting, enter the percentage (Format Example: -10 will deduct 10%, 5 will add 5%), and enter the reason for the adjustment. Close the pop-out window to save and return to the main gradebook screen.",
+            "title": "Grade Adjustments (5)"
+        },
+        {
+            "location": "/05_MedLearn_ManageCourses/#entering-grades",
+            "text": "Manual Entry  To manually enter grades for each student for an assessment, click on the assessment name on the main gradebook screen. Then with your mouse click in each cell next to the student's name to enter the score. You will have to click on each cell with your mouse, as tabbing with your keyboard does not currently work.     Import from ExamSoft / NBME / Generic CSV  Download the CSV from ExamSoft, then click on the name of the assessment you want to import scores for in MedLearn on the main gradebook screen. Click the green  Import Grades  button, then choose the file you just exported from ExamSoft.   You can also import NBME grades. Click on the name of the assessment you want to import scores for in MedLearn on the main gradebook screen. Click the green  Import Grades  button, then choose the file you received from NBME.   You can also import \"generic\" CSVs (i.e. you created the spreadsheet in Excel). Just make sure it is formatted correctly based on the guidelines specified in MedLearn. The formatting is shown when you click the green Import Grades button.   _ Note:  If you already have grades entered for the assessment you are working on, you can select the option to replace all grades, or replace with the higher score. _    Import from Assessment & Evaluation Distribution  Several prerequisites are necessary for this to work properly:  You must have selected the correct characteristic when setting up the gradebook assessment so that MedLearn knows how to score the assessment.   You must have tied the gradebook assessment to the assessment & evaluation distribution when setting up the distribution.   Once the assessment & evaluation tasks/surveys are completed you can click on the name of the gradebook assessment, then click on Import from Distribution.",
+            "title": "Entering Grades"
+        },
+        {
+            "location": "/06_MedLearn_ManageEvents/",
+            "text": "MedLearn - Managing Events\n\n\nLearning Events Main Page\n\n\nTo navigate to the main learning events page you can go to:\n\n\n\n\nAdmin / Manage Events, or\n\n\nLearning Events / Change Display Style to Your Non-Learner View \n\n\n\n\nFiltering Display\n\n\n\n\nThere is an \nApply Filter\n dropdown at the top of the learning events page with various filters. By applying or removing filters you can get a list of events relevant to the work you are doing. Additionally, you can apply multiple filters. \n\n\nTo remove a filter click the \nX\n next to the filter in the \"Show Events That Include\" box. \n\n\nTo remove \nall\n filters click on \nRemove All Filters\n on the left side of the screen. \n\n\nAdditionally, you can sort your list to display events by day, week, month, or year and toggle between your choice with the left and right arrows. \n\n\nDeleting an Event\n\n\nIf you need to delete an event, go to Admin / Manage Events. Select the checkbox next to the event you want to delete, then click the red \nDelete Selected\n button. \n\n\nCopying an Event\n\n\nIf you need to copy an event, go to Admin / Manage Events. Select the checkbox next to the event you want to copy, then click the white \nCopy Selected\n button. \n\n\nExport Results\n\n\nOn the Manage Events page of MedLearn you have the option to Export Results. This allows you to generate an Excel spreadsheet with various event details. You can specify what details you want by dragging fields to and from \nAvailable Fields\n and \nExport Fields\n. \n\n\n\n\nManaging a Specific Event\n\n\nIn MedLearn, you can navigate to manage an event in three ways:\n\n\n\n\nAdmin / Manage Events/ Select an Event, \n\n\nLearning Events / Change Display Style to Your Non-Learner View / Select an Event\n\n\nLearning Events / Select an Event / Change Display Style to Your Non-Learner View\n\n\n\n\nOnce you are in the non-learner view of the event you should see five (5) or six (6) tabs. \n\n\n\n\n\n\nSetup\n\n\nContent\n\n\nFaculty Notes\n\n\nRecurring Events (only shows for events with multiple offerings/recurrences)\n\n\nHistory\n\n\nStatistics\n\n\n\n\nSetup\n\n\nIn the setup tab you will need to specify the following:\n\n\n\n\nCourse: The course the event belongs to\n\n\nEnrollment Period: The period of the course in which the event belongs to\n\n\nEvent Title\n\n\nEvent Date & Start Time\n\n\nEvent Location (Building and Room)\n\n\nEvent Type and Duration\n\n\nAssociated Faculty\n\n\nAuthor: If the event is new, this is the person who created the materials for the event\n\n\nEditor: If the event is from a prior year, this is the person who edited/maintained the materials for the event\n\n\nLecturer: This is the person in the classroom teaching\n\n\nFaculty: Includes additional faculty (e.g. lab prep) and facilitators (e.g. CBI/CRC)\n\n\n\n\n\n\nOptions\n\n\nIf the audience of the event should be visible to the learners\n\n\nIf attendance is required\n\n\nIf the event is podcasted\n\n\nIf professional dress is required\n\n\nIf the event is flipped\n\n\nIf the event is a clinical correlation\n\n\n\n\n\n\nEvent Equipment: Anything the student might need to bring to class (e.g. iPad, laptop, pen/pencil, etc.)\n\n\nAssociated Learners: All learners or a custom audience (e.g. small group)\n\n\n\n\nContent\n\n\nIn the content tab you will be able to add the following details:\n\n\n\n\nEvent Description\n\n\nStudent Information (e.g. notes to the student)\n\n\nEvent Keywords (MeSH)\n\n\nEvent-Specific Objectives and Vocabulary\n\n\nEvent Resources (e.g. lecture notes, slides, readings, etc.)\n\n\n\n\nFaculty Notes\n\n\nFaculty Notes are only visible to faculty. These might be reminders about changes in teaching faculty, or notes that tagging has been reviewed. Anything that you want to keep track of, but don't want students to see. \n\n\nRecurring Events\n\n\nIf an event has multiple offerings, the recurring events tab will display. This lists all offerings of the event. When editing recurring events you can perform edits on the full series, or on each event individually. \n\n\nHistory\n\n\nThis tab shows a history of anyone who created or edited the event. \n\n\nStatistics\n\n\nThis tab shows who statistics on who has viewed the event, and how many times the event has been viewed.",
+            "title": "MedLearn / Manage Events"
+        },
+        {
+            "location": "/06_MedLearn_ManageEvents/#medlearn-managing-events",
+            "text": "",
+            "title": "MedLearn - Managing Events"
+        },
+        {
+            "location": "/06_MedLearn_ManageEvents/#learning-events-main-page",
+            "text": "To navigate to the main learning events page you can go to:   Admin / Manage Events, or  Learning Events / Change Display Style to Your Non-Learner View",
+            "title": "Learning Events Main Page"
+        },
+        {
+            "location": "/06_MedLearn_ManageEvents/#filtering-display",
+            "text": "There is an  Apply Filter  dropdown at the top of the learning events page with various filters. By applying or removing filters you can get a list of events relevant to the work you are doing. Additionally, you can apply multiple filters.   To remove a filter click the  X  next to the filter in the \"Show Events That Include\" box.   To remove  all  filters click on  Remove All Filters  on the left side of the screen.   Additionally, you can sort your list to display events by day, week, month, or year and toggle between your choice with the left and right arrows.",
+            "title": "Filtering Display"
+        },
+        {
+            "location": "/06_MedLearn_ManageEvents/#deleting-an-event",
+            "text": "If you need to delete an event, go to Admin / Manage Events. Select the checkbox next to the event you want to delete, then click the red  Delete Selected  button.",
+            "title": "Deleting an Event"
+        },
+        {
+            "location": "/06_MedLearn_ManageEvents/#copying-an-event",
+            "text": "If you need to copy an event, go to Admin / Manage Events. Select the checkbox next to the event you want to copy, then click the white  Copy Selected  button.",
+            "title": "Copying an Event"
+        },
+        {
+            "location": "/06_MedLearn_ManageEvents/#export-results",
+            "text": "On the Manage Events page of MedLearn you have the option to Export Results. This allows you to generate an Excel spreadsheet with various event details. You can specify what details you want by dragging fields to and from  Available Fields  and  Export Fields .",
+            "title": "Export Results"
+        },
+        {
+            "location": "/06_MedLearn_ManageEvents/#managing-a-specific-event",
+            "text": "In MedLearn, you can navigate to manage an event in three ways:   Admin / Manage Events/ Select an Event,   Learning Events / Change Display Style to Your Non-Learner View / Select an Event  Learning Events / Select an Event / Change Display Style to Your Non-Learner View   Once you are in the non-learner view of the event you should see five (5) or six (6) tabs.     Setup  Content  Faculty Notes  Recurring Events (only shows for events with multiple offerings/recurrences)  History  Statistics",
+            "title": "Managing a Specific Event"
+        },
+        {
+            "location": "/06_MedLearn_ManageEvents/#setup",
+            "text": "In the setup tab you will need to specify the following:   Course: The course the event belongs to  Enrollment Period: The period of the course in which the event belongs to  Event Title  Event Date & Start Time  Event Location (Building and Room)  Event Type and Duration  Associated Faculty  Author: If the event is new, this is the person who created the materials for the event  Editor: If the event is from a prior year, this is the person who edited/maintained the materials for the event  Lecturer: This is the person in the classroom teaching  Faculty: Includes additional faculty (e.g. lab prep) and facilitators (e.g. CBI/CRC)    Options  If the audience of the event should be visible to the learners  If attendance is required  If the event is podcasted  If professional dress is required  If the event is flipped  If the event is a clinical correlation    Event Equipment: Anything the student might need to bring to class (e.g. iPad, laptop, pen/pencil, etc.)  Associated Learners: All learners or a custom audience (e.g. small group)",
+            "title": "Setup"
+        },
+        {
+            "location": "/06_MedLearn_ManageEvents/#content",
+            "text": "In the content tab you will be able to add the following details:   Event Description  Student Information (e.g. notes to the student)  Event Keywords (MeSH)  Event-Specific Objectives and Vocabulary  Event Resources (e.g. lecture notes, slides, readings, etc.)",
+            "title": "Content"
+        },
+        {
+            "location": "/06_MedLearn_ManageEvents/#faculty-notes",
+            "text": "Faculty Notes are only visible to faculty. These might be reminders about changes in teaching faculty, or notes that tagging has been reviewed. Anything that you want to keep track of, but don't want students to see.",
+            "title": "Faculty Notes"
+        },
+        {
+            "location": "/06_MedLearn_ManageEvents/#recurring-events",
+            "text": "If an event has multiple offerings, the recurring events tab will display. This lists all offerings of the event. When editing recurring events you can perform edits on the full series, or on each event individually.",
+            "title": "Recurring Events"
+        },
+        {
+            "location": "/06_MedLearn_ManageEvents/#history",
+            "text": "This tab shows a history of anyone who created or edited the event.",
+            "title": "History"
+        },
+        {
+            "location": "/06_MedLearn_ManageEvents/#statistics",
+            "text": "This tab shows who statistics on who has viewed the event, and how many times the event has been viewed.",
+            "title": "Statistics"
+        },
+        {
+            "location": "/07_MedLearn_Clerkships/",
+            "text": "MedLearn - Clerkship Components\n\n\nPatient and Procedure Logbook\n\n\n\n\nTo review all logged cases and procedures for a specific student:\n\n\n\n\nGo to \nAssessment & Evaluation\n in the top right corner by your name\n\n\nClick on the \nMy Learners\n tab\n\n\nIf a student has logged entries in their logbook, you should see two options under each student's name (View Assessment and View Logbook)\n\n\nClick on \nView Logbook\n for the student you are wanting to see entries for\n\n\nUpon clicking View Logbook you should see a screen titled **Encounter Tracking Entries (Last Name, First Name) and a list of logged encounters for that student\n\n\n\n\nYou will be able to view additional information by using a couple reports in MedReports. \n\n\nReport: Clerkship Logbook Overview\n\n\nThis report shows the number of objectives (e.g. cases and procedures) logged for a clerkship by student, and a sum of the total number of objectives logged for the clerkship. \n\n\nReport: Logged Cases and Procedures by Student\n\n\nThis report shows the specific cases or procedures (objectives) logged by clerkship students in the logbook for a specific clerkship. \n\n\nDuty Hours Tracking\n\n\nTo review duty hours entered by students you will need to go to MedReports. \n\n\nReport: Duty Hours Compliance\n\n\nThe Duty Hours Compliance report details the average number of hours logged by student, the current week's hours logged by a student, and a summary of all logged duty hour encounter dates. \n\n\nMid-Clerkship Formative Feedback\n\n\nThe Clerkship Coordinator can complete the Mid-Clerkship Formative Feedback form in MedLearn. \n\n\n\n\n\n\nGo to \nAssessment & Evaluation\n at the top right by your name. \n\n\nClick on \nView Task\n under the correct Mid-Clerkship Formative Feedback task. \n\n\nUnder \npending targets\n select the student whose form you want to complete. \n\n\n\n\nReport: Mid-Clerkship Formative Feedback\n\n\nA report showing all the students mid-clerkship formative feedback information. \n\n\nH & P Clerkship Feedback\n\n\nStudents will complete their H & P Clerkship Feedback form through the Assessment & Evaluation module of MedLearn. The Clerkship Coordinator will be able to review the results by going to the HP Feedback Completion report in MedReports. \n\n\nReport: HP Feedback Completion\n\n\nThe HP Feedback Completion report shows an overview of students by clerkship and when they performed a history and physical, who observed them, and what the observer's role is (e.g. attending, fellow, or resident). \n\n\nAlternative Experience Requests\n\n\nStudents are able to request alternative experiences through MedLearn. Following a student's request, the Clerkship Coordinator can go to Admin / Manage Alternative Experiences to approve or deny the request. \n\n\n\n\nIf approved, the student will then log the alternative experience in the logbook. \n\n\nIf denied, the student will be required to complete the originally prescribed experience. \n\n\nReport: Alternative Experience Requests\n\n\nThis report allows you to view a summary of all alternative experience requests, sortable by student, course, alternative experience, and status. \n\n\nReport: Alternative Experience Requests by Site\n\n\nThis report allows you to view a summary of all alternative experience requests by site.",
+            "title": "MedLearn / Clerkship Components"
+        },
+        {
+            "location": "/07_MedLearn_Clerkships/#medlearn-clerkship-components",
+            "text": "",
+            "title": "MedLearn - Clerkship Components"
+        },
+        {
+            "location": "/07_MedLearn_Clerkships/#patient-and-procedure-logbook",
+            "text": "To review all logged cases and procedures for a specific student:   Go to  Assessment & Evaluation  in the top right corner by your name  Click on the  My Learners  tab  If a student has logged entries in their logbook, you should see two options under each student's name (View Assessment and View Logbook)  Click on  View Logbook  for the student you are wanting to see entries for  Upon clicking View Logbook you should see a screen titled **Encounter Tracking Entries (Last Name, First Name) and a list of logged encounters for that student   You will be able to view additional information by using a couple reports in MedReports.",
+            "title": "Patient and Procedure Logbook"
+        },
+        {
+            "location": "/07_MedLearn_Clerkships/#report-clerkship-logbook-overview",
+            "text": "This report shows the number of objectives (e.g. cases and procedures) logged for a clerkship by student, and a sum of the total number of objectives logged for the clerkship.",
+            "title": "Report: Clerkship Logbook Overview"
+        },
+        {
+            "location": "/07_MedLearn_Clerkships/#report-logged-cases-and-procedures-by-student",
+            "text": "This report shows the specific cases or procedures (objectives) logged by clerkship students in the logbook for a specific clerkship.",
+            "title": "Report: Logged Cases and Procedures by Student"
+        },
+        {
+            "location": "/07_MedLearn_Clerkships/#duty-hours-tracking",
+            "text": "To review duty hours entered by students you will need to go to MedReports.",
+            "title": "Duty Hours Tracking"
+        },
+        {
+            "location": "/07_MedLearn_Clerkships/#report-duty-hours-compliance",
+            "text": "The Duty Hours Compliance report details the average number of hours logged by student, the current week's hours logged by a student, and a summary of all logged duty hour encounter dates.",
+            "title": "Report: Duty Hours Compliance"
+        },
+        {
+            "location": "/07_MedLearn_Clerkships/#mid-clerkship-formative-feedback",
+            "text": "The Clerkship Coordinator can complete the Mid-Clerkship Formative Feedback form in MedLearn.     Go to  Assessment & Evaluation  at the top right by your name.   Click on  View Task  under the correct Mid-Clerkship Formative Feedback task.   Under  pending targets  select the student whose form you want to complete.",
+            "title": "Mid-Clerkship Formative Feedback"
+        },
+        {
+            "location": "/07_MedLearn_Clerkships/#report-mid-clerkship-formative-feedback",
+            "text": "A report showing all the students mid-clerkship formative feedback information.",
+            "title": "Report: Mid-Clerkship Formative Feedback"
+        },
+        {
+            "location": "/07_MedLearn_Clerkships/#h-p-clerkship-feedback",
+            "text": "Students will complete their H & P Clerkship Feedback form through the Assessment & Evaluation module of MedLearn. The Clerkship Coordinator will be able to review the results by going to the HP Feedback Completion report in MedReports.",
+            "title": "H &amp; P Clerkship Feedback"
+        },
+        {
+            "location": "/07_MedLearn_Clerkships/#report-hp-feedback-completion",
+            "text": "The HP Feedback Completion report shows an overview of students by clerkship and when they performed a history and physical, who observed them, and what the observer's role is (e.g. attending, fellow, or resident).",
+            "title": "Report: HP Feedback Completion"
+        },
+        {
+            "location": "/07_MedLearn_Clerkships/#alternative-experience-requests",
+            "text": "Students are able to request alternative experiences through MedLearn. Following a student's request, the Clerkship Coordinator can go to Admin / Manage Alternative Experiences to approve or deny the request.    If approved, the student will then log the alternative experience in the logbook.   If denied, the student will be required to complete the originally prescribed experience.",
+            "title": "Alternative Experience Requests"
+        },
+        {
+            "location": "/07_MedLearn_Clerkships/#report-alternative-experience-requests",
+            "text": "This report allows you to view a summary of all alternative experience requests, sortable by student, course, alternative experience, and status.",
+            "title": "Report: Alternative Experience Requests"
+        },
+        {
+            "location": "/07_MedLearn_Clerkships/#report-alternative-experience-requests-by-site",
+            "text": "This report allows you to view a summary of all alternative experience requests by site.",
+            "title": "Report: Alternative Experience Requests by Site"
+        },
+        {
+            "location": "/08_MedLearn_Portfolio/",
+            "text": "MedLearn - ePortfolio",
+            "title": "MedLearn / ePortfolio"
+        },
+        {
+            "location": "/08_MedLearn_Portfolio/#medlearn-eportfolio",
+            "text": "",
+            "title": "MedLearn - ePortfolio"
+        },
+        {
+            "location": "/09_MedLearn_absences/",
+            "text": "MedLearn - Absences\n\n\nOnce a student has requested an absence, the request will be directed to the Course Coordinator and Director. For clerkships, this will be the only and final step for approval/denial of the request. For preclerkship courses this will be the first or two steps for approval/denial. The second and final step for preclerkship courses will be Student Affairs. \n\n\nAdditionally, coordinators and directors are able to report a student absent, for example if they do not sign in at a required event. \n\n\nIn general, this is how you process an absence request in MedLearn:\n\n\n\n\nGo to \nAdmin / Manage Absences\n.\n\n\nTo manage a pending absence request make sure the \nPending\n tab is selected. To review a previously approved/denied request go to the \nAll Requests\n tab. \n\n\nClick on the gear icon under \nActions\n for the request you want to manage.\n\n\nClick \nEdit\n to change the status of the request. \n\n\nStatuses include:\n\n\nExcused Absence\n\n\nUnexcused Absence\n\n\nPending (Default)\n\n\nCancelled\n\n\nDenied\n\n\n\n\n\n\n\n\n\n\nAdd any comments. \n\n\nClick \nSave\n. \n\n\n\n\nBelow are the flowcharts for student requested absences and coordinator reported absences.",
+            "title": "MedLearn / Absences"
+        },
+        {
+            "location": "/09_MedLearn_absences/#medlearn-absences",
+            "text": "Once a student has requested an absence, the request will be directed to the Course Coordinator and Director. For clerkships, this will be the only and final step for approval/denial of the request. For preclerkship courses this will be the first or two steps for approval/denial. The second and final step for preclerkship courses will be Student Affairs.   Additionally, coordinators and directors are able to report a student absent, for example if they do not sign in at a required event.   In general, this is how you process an absence request in MedLearn:   Go to  Admin / Manage Absences .  To manage a pending absence request make sure the  Pending  tab is selected. To review a previously approved/denied request go to the  All Requests  tab.   Click on the gear icon under  Actions  for the request you want to manage.  Click  Edit  to change the status of the request.   Statuses include:  Excused Absence  Unexcused Absence  Pending (Default)  Cancelled  Denied      Add any comments.   Click  Save .    Below are the flowcharts for student requested absences and coordinator reported absences.",
+            "title": "MedLearn - Absences"
+        },
+        {
+            "location": "/10_MedLearn_manageAE/",
+            "text": "MedLearn - Manage Assessments & Evaluations (aka Surveys)\n\n\nTo manage assessments and evaluations, click on \nAdmin / Assessment & Evaluation\n \n(\nNote:\n this is not the same as the Assessment & Evaluation link next to your name)\n. \n\n\nGeneral Steps for Creating a Survey:\n\n\n\n\nCreate items\n\n\nCreate a form and attach the items created in step 1\n\n\nCreate a distribution using the form created in step 2. \n\n\n\n\nDashboard\n\n\nThe dashboard of the Assessment & Evaluation module shows outstanding, upcoming, and deleted tasks for assessments and evaluations. First select \nAssessments\n or \nEvaluations\n, then select \nOutstanding\n, \nUpcoming\n or \nDeleted\n. \n\n\n\n\nAssessments:\n Generally the student is the target, and it contributes to the student's grade. \n\n\nEvaluations:\n Typically someone/something other than students is the target. For example, the target could be a faculty member, a course, or an event. \n\n\n\n\nScales\n\n\nRating scales establishes default response categories for items. For example, if you are creating five items all with the same response categories, you could use a rating scale to streamline the item creation process. An example of a rating scale is as follows:\n\n\n\n\nItems\n\n\nItems are what make up forms. You can create individual items or grouped items. Individual items are independent of any other questions on the form. Grouped items establish a rubric with common response categories, but multiple unique item text. \n\n\nWhen creating an item you can choose from a variety of item types including the following:\n\n\n\n\nHorizontal/Vertical Multiple Choice (Single or Multiple Response)\n\n\nDropdown (Single or Multiple Response)\n\n\nFree-Text Comments\n\n\nDate Selector\n\n\nNumeric Field\n\n\nRubric Attribute\n\n\nScale Item\n\n\n\n\nAdditionally, you will need to provide:\n\n The item text (what the assessors/evaluators are answering/responding to)\n\n An item code (optional)\n\n A rating scale (optional)\n\n If the item is mandatory or optional\n\n If comments are allowed for the item, and if they are required or optional\n\n If a default value should be selected/provided\n* The item responses and corresponding text, value, and category\n\n\nFinally, you can associate a curriculum tag to the item. For graded items you \nMUST\n tag the corresponding competency so that the gradebook knows which competency the score contributes to when importing scores from an Assessment & Evaluation distribution. \nSee Gradebook Section for more information.\n\n\nForms\n\n\nOnce you've created your items, you can now create a form. When you click the green \nAdd Form\n button you will be prompted to enter the Form Name and Form Type. You will then be redirected to the form creation page. You can add a form description, items, grouped items, free-text, and curriculum tags. \n\n\nOnce items have been added to the form you can download a PDF of the form, preview the form, or copy the form. \n\n\nDistributions\n\n\nTo actually send the form out for assessors/evaluators to complete, you will need to create a distribution.\n\n\nStep 1: Form\n\n\n\n\nStep 2: Method\n\n\n\n\nStep 3:  Targets\n\n\nOptions vary based on if assessment or evaluation was selected in Step 1.\n\n\nAssessments\n\n\n\n\nEvaluations\n\n\n\n\nStep 4: Assessors/Evaluators\n\n\nOptions vary based on if assessment or evaluation was selected in Step 1.\n\n\nAssessments\n\n\n\n\nEvaluations\n\n\n\n\nStep 5: Results",
+            "title": "MedLearn / Manage Assessments & Evaluations (Surveys)"
+        },
+        {
+            "location": "/10_MedLearn_manageAE/#medlearn-manage-assessments-evaluations-aka-surveys",
+            "text": "To manage assessments and evaluations, click on  Admin / Assessment & Evaluation   ( Note:  this is not the same as the Assessment & Evaluation link next to your name) .   General Steps for Creating a Survey:   Create items  Create a form and attach the items created in step 1  Create a distribution using the form created in step 2.",
+            "title": "MedLearn - Manage Assessments &amp; Evaluations (aka Surveys)"
+        },
+        {
+            "location": "/10_MedLearn_manageAE/#dashboard",
+            "text": "The dashboard of the Assessment & Evaluation module shows outstanding, upcoming, and deleted tasks for assessments and evaluations. First select  Assessments  or  Evaluations , then select  Outstanding ,  Upcoming  or  Deleted .    Assessments:  Generally the student is the target, and it contributes to the student's grade.   Evaluations:  Typically someone/something other than students is the target. For example, the target could be a faculty member, a course, or an event.",
+            "title": "Dashboard"
+        },
+        {
+            "location": "/10_MedLearn_manageAE/#scales",
+            "text": "Rating scales establishes default response categories for items. For example, if you are creating five items all with the same response categories, you could use a rating scale to streamline the item creation process. An example of a rating scale is as follows:",
+            "title": "Scales"
+        },
+        {
+            "location": "/10_MedLearn_manageAE/#items",
+            "text": "Items are what make up forms. You can create individual items or grouped items. Individual items are independent of any other questions on the form. Grouped items establish a rubric with common response categories, but multiple unique item text.   When creating an item you can choose from a variety of item types including the following:   Horizontal/Vertical Multiple Choice (Single or Multiple Response)  Dropdown (Single or Multiple Response)  Free-Text Comments  Date Selector  Numeric Field  Rubric Attribute  Scale Item   Additionally, you will need to provide:  The item text (what the assessors/evaluators are answering/responding to)  An item code (optional)  A rating scale (optional)  If the item is mandatory or optional  If comments are allowed for the item, and if they are required or optional  If a default value should be selected/provided\n* The item responses and corresponding text, value, and category  Finally, you can associate a curriculum tag to the item. For graded items you  MUST  tag the corresponding competency so that the gradebook knows which competency the score contributes to when importing scores from an Assessment & Evaluation distribution.  See Gradebook Section for more information.",
+            "title": "Items"
+        },
+        {
+            "location": "/10_MedLearn_manageAE/#forms",
+            "text": "Once you've created your items, you can now create a form. When you click the green  Add Form  button you will be prompted to enter the Form Name and Form Type. You will then be redirected to the form creation page. You can add a form description, items, grouped items, free-text, and curriculum tags.   Once items have been added to the form you can download a PDF of the form, preview the form, or copy the form.",
+            "title": "Forms"
+        },
+        {
+            "location": "/10_MedLearn_manageAE/#distributions",
+            "text": "To actually send the form out for assessors/evaluators to complete, you will need to create a distribution.",
+            "title": "Distributions"
+        },
+        {
+            "location": "/10_MedLearn_manageAE/#step-1-form",
+            "text": "",
+            "title": "Step 1: Form"
+        },
+        {
+            "location": "/10_MedLearn_manageAE/#step-2-method",
+            "text": "",
+            "title": "Step 2: Method"
+        },
+        {
+            "location": "/10_MedLearn_manageAE/#step-3-targets",
+            "text": "Options vary based on if assessment or evaluation was selected in Step 1.",
+            "title": "Step 3:  Targets"
+        },
+        {
+            "location": "/10_MedLearn_manageAE/#assessments",
+            "text": "",
+            "title": "Assessments"
+        },
+        {
+            "location": "/10_MedLearn_manageAE/#evaluations",
+            "text": "",
+            "title": "Evaluations"
+        },
+        {
+            "location": "/10_MedLearn_manageAE/#step-4-assessorsevaluators",
+            "text": "Options vary based on if assessment or evaluation was selected in Step 1.",
+            "title": "Step 4: Assessors/Evaluators"
+        },
+        {
+            "location": "/10_MedLearn_manageAE/#assessments_1",
+            "text": "",
+            "title": "Assessments"
+        },
+        {
+            "location": "/10_MedLearn_manageAE/#evaluations_1",
+            "text": "",
+            "title": "Evaluations"
+        },
+        {
+            "location": "/10_MedLearn_manageAE/#step-5-results",
+            "text": "",
+            "title": "Step 5: Results"
+        },
+        {
+            "location": "/11_MedLearn_AE/",
+            "text": "MedLearn - Complete Assessment & Evaluation Tasks (aka Surveys)\n\n\nWhen you click on Assessment & Evaluation at the top right corner of the screen, you will be able to complete assessment tasks, view tasks completed on yourself, and view your previously completed tasks. \n\n\n\n\nAssessment Tasks\n\n\nIf you have any surveys to complete they will be listed under Assessment Tasks. To complete the survey click on View Task. A task might have multiple targets, so one task might actually involve completing multiple surveys. Complete the survey form then hit Submit when you are done.\n\n\nTasks Completed on Me\n\n\nDepending on the type of assessment, you might be able to view the results of a survey completed on you by clicking on Tasks Completed on Me. Some results might show the entire form, while others might only show you the free text comments written about you. \n\n\nMy Completed Tasks\n\n\nTo review past surveys you filled out, click on My Completed Tasks, then View Task for the survey you want to review. Completed tasks are not editable.",
+            "title": "MedLearn / Complete Assessment & Evaluation Tasks (Surveys)"
+        },
+        {
+            "location": "/11_MedLearn_AE/#medlearn-complete-assessment-evaluation-tasks-aka-surveys",
+            "text": "When you click on Assessment & Evaluation at the top right corner of the screen, you will be able to complete assessment tasks, view tasks completed on yourself, and view your previously completed tasks.",
+            "title": "MedLearn - Complete Assessment &amp; Evaluation Tasks (aka Surveys)"
+        },
+        {
+            "location": "/11_MedLearn_AE/#assessment-tasks",
+            "text": "If you have any surveys to complete they will be listed under Assessment Tasks. To complete the survey click on View Task. A task might have multiple targets, so one task might actually involve completing multiple surveys. Complete the survey form then hit Submit when you are done.",
+            "title": "Assessment Tasks"
+        },
+        {
+            "location": "/11_MedLearn_AE/#tasks-completed-on-me",
+            "text": "Depending on the type of assessment, you might be able to view the results of a survey completed on you by clicking on Tasks Completed on Me. Some results might show the entire form, while others might only show you the free text comments written about you.",
+            "title": "Tasks Completed on Me"
+        },
+        {
+            "location": "/11_MedLearn_AE/#my-completed-tasks",
+            "text": "To review past surveys you filled out, click on My Completed Tasks, then View Task for the survey you want to review. Completed tasks are not editable.",
+            "title": "My Completed Tasks"
+        },
+        {
+            "location": "/12_MedLearn_Groups/",
+            "text": "MedLearn - Course Groups\n\n\nTo view what groups you are a facilitator of click on My Course Groups within My MedLearn. \n\n\nYou will see each of your groups for the courses you facilitate for with the names of the students in your group.",
+            "title": "MedLearn / My Course Groups"
+        },
+        {
+            "location": "/12_MedLearn_Groups/#medlearn-course-groups",
+            "text": "To view what groups you are a facilitator of click on My Course Groups within My MedLearn.   You will see each of your groups for the courses you facilitate for with the names of the students in your group.",
+            "title": "MedLearn - Course Groups"
+        },
+        {
+            "location": "/13_MedLearn_MSPE/",
+            "text": "MedLearn - MSPE\n\n\nMSPE - Societies Mentor Paragraph\n\n\nOnce logged in to MedLearn, select the MSPE role under My Organizations.\n\n\n\n\nThen click on My MSPE Students under My MedLearn. \n\n\n\n\nA list of students that you mentor will appear. Click on the student's name to enter your paragraph, then click \nSave Changes\n when you are finished. \n\n\nAdditionally, you can toggle your display between \nShow all students\n or \nShow only students requiring attention\n. \n\n\nMSPE - Student Affairs Deans / Letter Writers\n\n\nOnce logged in to MedLearn, select the MSPE role under My Organizations.\n\n\n\n\nThen go to \nAdmin / Manage MSPEs\n. \n\n\nSelect the cohort you want to manage in the dropdown, then click \nproceed\n. \n\n\nOnce you are in a cohort, you will be able to define the \nMSPE Options\n under the MSPE Admin section towards the left of the screen. In this section you will be able to set the convocation date and the submission deadline for students to submit their noteworthy characteristics. \n\n\nReturning to the \nMSPE Main\n screen, you will be able to work on editing and approving individual student's MSPE letters. Students are organized by house. Additionally, you can toggle your display to \nShow only students requiring attention\n or \nShow all students\n. \n\n\nClick on the student name to edit their letter. While editing the student's letter, you can generate a preview of what the letter will look like. Then once all sections are approved, you will be able to generate a PDF of the MSPE letter.",
+            "title": "MedLearn / MSPE"
+        },
+        {
+            "location": "/13_MedLearn_MSPE/#medlearn-mspe",
+            "text": "",
+            "title": "MedLearn - MSPE"
+        },
+        {
+            "location": "/13_MedLearn_MSPE/#mspe-societies-mentor-paragraph",
+            "text": "Once logged in to MedLearn, select the MSPE role under My Organizations.   Then click on My MSPE Students under My MedLearn.    A list of students that you mentor will appear. Click on the student's name to enter your paragraph, then click  Save Changes  when you are finished.   Additionally, you can toggle your display between  Show all students  or  Show only students requiring attention .",
+            "title": "MSPE - Societies Mentor Paragraph"
+        },
+        {
+            "location": "/13_MedLearn_MSPE/#mspe-student-affairs-deans-letter-writers",
+            "text": "Once logged in to MedLearn, select the MSPE role under My Organizations.   Then go to  Admin / Manage MSPEs .   Select the cohort you want to manage in the dropdown, then click  proceed .   Once you are in a cohort, you will be able to define the  MSPE Options  under the MSPE Admin section towards the left of the screen. In this section you will be able to set the convocation date and the submission deadline for students to submit their noteworthy characteristics.   Returning to the  MSPE Main  screen, you will be able to work on editing and approving individual student's MSPE letters. Students are organized by house. Additionally, you can toggle your display to  Show only students requiring attention  or  Show all students .   Click on the student name to edit their letter. While editing the student's letter, you can generate a preview of what the letter will look like. Then once all sections are approved, you will be able to generate a PDF of the MSPE letter.",
+            "title": "MSPE - Student Affairs Deans / Letter Writers"
+        },
+        {
+            "location": "/08_MedLearn_Notices/",
+            "text": "MedLearn - Notices",
+            "title": "MedLearn / Notices"
+        },
+        {
+            "location": "/08_MedLearn_Notices/#medlearn-notices",
+            "text": "",
+            "title": "MedLearn - Notices"
+        },
+        {
+            "location": "/14_MedLearn_Profile/",
+            "text": "MedLearn - Your Profile\n\n\nWhen you click on your name at the top right corner of the screen, you will be able to view your user profile and modify some preferences. \n\n\n\n\nOptionally you can add additional personal information such as a profile picture, secondary email address, a telephone number, a fax number, and an address. You can also update your privacy preferences, notification preferences, and add Admin Assistants. Admin Assistants will be able to login with their account, and emulate your MedLearn account access.",
+            "title": "MedLearn / Profile"
+        },
+        {
+            "location": "/14_MedLearn_Profile/#medlearn-your-profile",
+            "text": "When you click on your name at the top right corner of the screen, you will be able to view your user profile and modify some preferences.    Optionally you can add additional personal information such as a profile picture, secondary email address, a telephone number, a fax number, and an address. You can also update your privacy preferences, notification preferences, and add Admin Assistants. Admin Assistants will be able to login with their account, and emulate your MedLearn account access.",
+            "title": "MedLearn - Your Profile"
+        },
+        {
+            "location": "/15_MedLearn_People/",
+            "text": "MedLearn - People Search\n\n\nWhen you click on People Search in the main menu, you will be able to search for people by name, NetID, email address, or ID number. Additionally, you can browse people by group and role or browse by departments.",
+            "title": "MedLearn / People Search"
+        },
+        {
+            "location": "/15_MedLearn_People/#medlearn-people-search",
+            "text": "When you click on People Search in the main menu, you will be able to search for people by name, NetID, email address, or ID number. Additionally, you can browse people by group and role or browse by departments.",
+            "title": "MedLearn - People Search"
+        },
+        {
+            "location": "/08_MedLearn_SystemSettings/",
+            "text": "MedLearn - System Settings",
+            "title": "MedLearn / System Settings"
+        },
+        {
+            "location": "/08_MedLearn_SystemSettings/#medlearn-system-settings",
+            "text": "",
+            "title": "MedLearn - System Settings"
+        },
+        {
+            "location": "/MedReports/",
+            "text": "MedReports\n\n\nWhat is MedReports?\n\n\nMedReports is our educational reporting system. MedReports provides flexible reports for COM-T's various educational systems such as ArizonaMed, MedLearn, and OASIS. Access to each report is restricted to specific user groups. \n\n\nWithin MedReports you can hover over each report name for a description of the report.",
+            "title": "MedReports"
+        },
+        {
+            "location": "/MedReports/#medreports",
+            "text": "What is MedReports?  MedReports is our educational reporting system. MedReports provides flexible reports for COM-T's various educational systems such as ArizonaMed, MedLearn, and OASIS. Access to each report is restricted to specific user groups.   Within MedReports you can hover over each report name for a description of the report.",
+            "title": "MedReports"
+        }
+    ]
+}

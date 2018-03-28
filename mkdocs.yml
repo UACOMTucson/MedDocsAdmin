@@ -1,1 +1,27 @@
-site_name: My Docs
+site_name: MedDocs for Super Users
+
+pages:
+- Welcome: "index.md"
+- MedPortal: "01_MedPortal.md"
+- MedLearn: "02_MedLearn.md"
+- MedLearn / Dashboard: "03_MedLearn_Dashboard.md"
+- MedLearn / Exploring the Curriculum: "04_MedLearn_Curriculum.md"
+- MedLearn / Manage Cohorts (Course Lists): "15_MedLearn_Cohorts.md"
+- MedLearn / Curriculum Layouts & Periods: "15_MedLearn_Layouts.md"
+- MedLearn / Curriculum Tagging & Mapping: "04_MedLearn_Tags.md"
+- MedLearn / Manage Courses: "05_MedLearn_ManageCourses.md"
+- MedLearn / Manage Events: "06_MedLearn_ManageEvents.md"
+- MedLearn / Clerkship Components: "07_MedLearn_Clerkships.md"
+- MedLearn / ePortfolio: "08_MedLearn_Portfolio.md"
+- MedLearn / Absences: "09_MedLearn_absences.md"
+- MedLearn / Manage Assessments & Evaluations (Surveys): "10_MedLearn_manageAE.md"
+- MedLearn / Complete Assessment & Evaluation Tasks (Surveys): "11_MedLearn_AE.md"
+- MedLearn / My Course Groups: "12_MedLearn_Groups.md"
+- MedLearn / MSPE: "13_MedLearn_MSPE.md"
+- MedLearn / Notices: "08_MedLearn_Notices.md"
+- MedLearn / Profile: "14_MedLearn_Profile.md"
+- MedLearn / People Search: "15_MedLearn_People.md"
+- MedLearn / System Settings: "08_MedLearn_SystemSettings.md"
+- MedReports: "MedReports.md"
+
+theme: readthedocs

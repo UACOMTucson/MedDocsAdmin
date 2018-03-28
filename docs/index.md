@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+#Welcome to MedDocs for Super Users!
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+**What is MedDocs?**
 
-## Commands
+MedDocs is a repository of resources for College of Medicine-Tucson educational applications and systems. MedDocs contains user guides, illustrations, and video demonstrations. 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+**What applications does MedDocs currently support?**
 
-## Project layout
+Currently, MedDocs has resources for MedPortal, MedLearn, and MedReports. MedDocs will continue to expand. 
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+![logos](./images/logos.png)
+
+**What if I need additional help?**
+
+Please contact the IT Service Desk. If they are unable to assist you they will forward your request to the Project/Operations Team. [Here is the link to the COM-T ITS Website](http://medicine.arizona.edu/faculty-staff/offices/information-technology-services).
